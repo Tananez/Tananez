@@ -1,8 +1,5 @@
 # MOROZAN Andrei 👋
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:andreimorozantiberiu@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-
-
 ## 🛠️ Skills
 
 ### Languages
@@ -23,7 +20,7 @@ About me:
 - 👯 I’m looking to collaborate on PHP, Typescript .
 - 🤔 I’m looking for jobs in IT .
 - 💬 Ask me about anything
-- 📫 How to reach me: G-mail:andreimorozantiberiu@gmail.com, Discord PabloEscobar#6933 .
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:andreimorozantiberiu@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) Or  Discord PabloEscobar#6933 .
 
 
 <a href="">
