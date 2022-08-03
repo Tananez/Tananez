@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning UnrealEngine
 - 💞️ I’m looking to collaborate on MMORPG
-- 📫 How to reach me Discord: PabloEscobar#9054
+- 📫 How to reach me Discord: PabloEscobar#6933
 
 <!---
 Tananez/Tananez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
