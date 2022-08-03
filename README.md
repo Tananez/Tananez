@@ -23,7 +23,7 @@ About me:
 - 👯 I’m looking to collaborate on PHP, Typescript .
 - 🤔 I’m looking for jobs in IT .
 - 💬 Ask me about anything
-- 📫 How to reach me: Email, Discord
+- 📫 How to reach me: G-mail:andreimorozantiberiu@gmail.com, Discord PabloEscobar#6933 .
 
 
 <a href="">
